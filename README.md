@@ -1,1 +1,2 @@
-# Capstone-Game
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
